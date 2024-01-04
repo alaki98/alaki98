@@ -1,4 +1,4 @@
-Welcome to alakis's documentation!
+Welcome to alaki's documentation!
 ===================================
 
 This is a test documentation for alaki98 package ... .
