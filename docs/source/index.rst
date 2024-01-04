@@ -4,7 +4,7 @@ Welcome to alakis's documentation!
 This is a test documentation for alaki98 package ... .
 Enjoy it ... .
 
-test22222222222222222222222222222
+test2
 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
