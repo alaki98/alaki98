@@ -1,7 +1,7 @@
 Welcome to alakis's documentation!
 ===================================
 
-This is a test documentation for alaki98 package... .
+This is a test documentation for alaki98 package ... .
 Enjoy it ... .
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
