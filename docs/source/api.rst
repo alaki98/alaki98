@@ -1,4 +1,4 @@
-APIX
+API
 ===
 
 .. autosummary::
